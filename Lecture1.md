@@ -21,7 +21,7 @@ Gradle Build라는 창이 뜨는데, 이건 Gradle이란 요망한 놈이 우리
 
 ###### 2. 프로젝트 톺아보기
 우리가 만든 앱의 프로젝트 디렉터리 구조를 보자.  
-![](file:/Users/vista/Desktop/스크린샷/스크린샷 2015-06-24 오후 8.28.05.png) 
+![](https://raw.githubusercontent.com/aperturecs/android_lecture/master/projectstructure.png) 
 
  - app : 휴대전화용 앱 모듈. 
    - 인텔리제이에선 Project라는 큰 개념과 안에 Module이라는 개념이 있는데,
@@ -86,7 +86,7 @@ public class MainActivity extends Activity {
 
 자, 이제 요 요망한 로봇놈 옆에 X 표시가 사라진걸 볼 수 있는가? 앱을 빌드해서 폰에 올릴 준비가 됐다!
 
-![](file:/Users/vista/Desktop/스크린샷/스크린샷 2015-06-24 오후 8.58.13.png)
+![](https://raw.githubusercontent.com/aperturecs/android_lecture/master/ready.png)
 
 #### 우리가 짠 코드 자세히 파헤쳐보기
 
@@ -139,7 +139,7 @@ public class MainActivity extends Activity {
 
 #### System Structure
 
-![Android 구조](file:/Users/vista/Desktop/스크린샷/스크린샷 2015-06-24 오후 7.29.59.png)
+![Android 구조](https://raw.githubusercontent.com/aperturecs/android_lecture/master/arch.png)
 
 <strike>뭔 개소리야</strike> 쉽게 해석해보자.
 
